@@ -1,0 +1,28 @@
+C:\Users\pc\source\repos\mini game\mini game\bin\Debug\mini game.exe.config
+C:\Users\pc\source\repos\mini game\mini game\bin\Debug\mini game.exe
+C:\Users\pc\source\repos\mini game\mini game\bin\Debug\mini game.pdb
+C:\Users\pc\source\repos\mini game\mini game\obj\Debug\mini game.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\mini game\mini game\obj\Debug\mini_game.Properties.Resources.resources
+C:\Users\pc\source\repos\mini game\mini game\obj\Debug\mini game.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\mini game\mini game\obj\Debug\mini game.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\mini game\mini game\obj\Debug\mini game.exe
+C:\Users\pc\source\repos\mini game\mini game\obj\Debug\mini game.pdb
+C:\Users\pc\Desktop\mini game\mini game\bin\Debug\mini game.exe.config
+C:\Users\pc\Desktop\mini game\mini game\bin\Debug\mini game.exe
+C:\Users\pc\Desktop\mini game\mini game\bin\Debug\mini game.pdb
+C:\Users\pc\Desktop\mini game\mini game\obj\Debug\mini game.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\mini game\mini game\obj\Debug\mini_game.Properties.Resources.resources
+C:\Users\pc\Desktop\mini game\mini game\obj\Debug\mini game.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\mini game\mini game\obj\Debug\mini game.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\mini game\mini game\obj\Debug\mini game.exe
+C:\Users\pc\Desktop\mini game\mini game\obj\Debug\mini game.pdb
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\bin\Debug\mini game.exe.config
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\bin\Debug\mini game.exe
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\bin\Debug\mini game.pdb
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\obj\Debug\mini game.csproj.AssemblyReference.cache
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\obj\Debug\mini game.csproj.SuggestedBindingRedirects.cache
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\obj\Debug\mini_game.Properties.Resources.resources
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\obj\Debug\mini game.csproj.GenerateResource.cache
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\obj\Debug\mini game.csproj.CoreCompileInputs.cache
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\obj\Debug\mini game.exe
+D:\MSA University\Semester 4\CS232\New folder (3)\mini game\mini game\obj\Debug\mini game.pdb
